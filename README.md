@@ -26,7 +26,6 @@ supabase/schema.sql   ← tabla, RLS y datos de ejemplo
 2. En `SupabaseManager.kt` colocar la **URL** del proyecto y la **clave publicable** (`sb_publishable_...`).
 3. Abrir el proyecto en Android Studio, sincronizar Gradle y ejecutar en un emulador/dispositivo (minSdk 26).
 
-> Nunca publicar la clave `secret` / `service_role`. La clave publicable es pública y su acceso lo limitan las políticas RLS.
 
 ## Capturas de pantalla
 <img width="268" height="607" alt="image" src="https://github.com/user-attachments/assets/6c28d30c-d38d-4dd6-af49-31d8028273d1" />
