@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SupaBase</string>
+    <string name="titulo_lista">Lista de Alumnos</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="sin_registros">No hay alumnos registrados.</string>
+    <string name="error_carga">No se pudo cargar la lista.</string>
+</resources>
