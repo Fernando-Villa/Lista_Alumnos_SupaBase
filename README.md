@@ -29,4 +29,5 @@ supabase/schema.sql   ← tabla, RLS y datos de ejemplo
 > Nunca publicar la clave `secret` / `service_role`. La clave publicable es pública y su acceso lo limitan las políticas RLS.
 
 ## Capturas de pantalla
-_(agregar aquí: tabla en Supabase, app mostrando la lista, mensaje de error/sin registros)_
+<img width="268" height="607" alt="image" src="https://github.com/user-attachments/assets/6c28d30c-d38d-4dd6-af49-31d8028273d1" />
+
